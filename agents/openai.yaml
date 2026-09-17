@@ -1,0 +1,4 @@
+interface:
+  display_name: "Closed Loop Companion"
+  short_description: "Operating Partner for effort, evidence and review"
+  default_prompt: "Use $closed-loop-companion alongside the domain skill for this task; allocate effort to risk and value, preserve required evidence and review, and stop low-value repetition."
